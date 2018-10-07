@@ -24,7 +24,6 @@ class html
     }
 }
 
-/*
 
 class row
 {
