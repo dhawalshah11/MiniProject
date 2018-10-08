@@ -6,8 +6,6 @@
  * Time: 2:03 AM
  */
 
-
-
 main::start("WA_Retail-SalesMarketing_-ProfitCost.csv");
 
 class main
@@ -30,7 +28,6 @@ class html
         return $table;
     }
 }
-
 
 class row
 {
